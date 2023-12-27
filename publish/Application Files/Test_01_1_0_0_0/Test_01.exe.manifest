@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Test_01.exe" version="1.0.0.0" publicKeyToken="2c4186d3518cea67" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="blood-icon_1.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Test_01" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Test_01.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Guna.UI2.dll" size="2336712">
+      <assemblyIdentity name="Guna.UI2" version="2.0.3.1" publicKeyToken="E4B9CDD7B4CDE4B4" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>34i21D6rS86wm8p8RA7wADFIb/PoPYrrgwR5aG/0H94=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MetroFramework.dll" size="353280">
+      <assemblyIdentity name="MetroFramework" version="1.4.0.0" publicKeyToken="5F91A84759BF584A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>wsEtMbSETineMVlPyWMqNypVNjHeCgoEyK+RZo43z0k=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MetroFramework.Design.dll" size="16896">
+      <assemblyIdentity name="MetroFramework.Design" version="1.4.0.0" publicKeyToken="5F91A84759BF584A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>CkqWCC4ldn5GlwM2SbFsdqZS4SB1eizsq4CSrQ1xa2U=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MetroFramework.Fonts.dll" size="672256">
+      <assemblyIdentity name="MetroFramework.Fonts" version="1.4.0.0" publicKeyToken="5F91A84759BF584A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>yEOGmqylE1wtRylphfNcccqK9EMSiNBNSBxORsyT7iY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Test_01.exe" size="1729568">
+      <assemblyIdentity name="Test_01" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>s+PLVDT4PUPtIzlByZ4pFjAU2zRvYPSRgeojcP8m4Jk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="blood-icon_1.ico" size="195422">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fF9JVlnndeB/yww27Jqt3F6Ax/THlhR/PYxrx5RT0YU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Test_01.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-PT3JD6VE\Hasira Methnuka" issuerKeyHash="b4861f6b2d29576368fd22ec1308b7c135fd905b" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>urTA0QEdk0QgepgjNaXvfCFJMUGBS9KdGnrxg6l4wr0=</DigestValue></Reference></SignedInfo><SignatureValue>lj/f8dD4iri3kIikx399DAx6TVR9ybFh+3VJNmM5apj5N4wnN8cFM5dCMl13yvazbZrF2oJZgaNi77nreJJimzadbwC6UgM9TJfz2eLM2SQ86kzDrGC5jqIrQksMhmSgfOH352wo5Dh3fNYL19Nsvx6q4lWKq1SYBVvH9pQUapA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>14GnCjj3hrtOSE8KA4yeGh9XhWY+fqEkofgmdCk/Gw4nFVj8vKS6XbNt9jICUOmxA/KnRIFKqCIs+7Mpry7ivpoDP2FLyajMpLEHRltxg5PD1rt7LlYvuU4Byn22zr0KpylQT2LdUpFfBzP1isuIoKtKvbulKhnIVJquorv6FHU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="bdc278a983f17a1a9dd24b81413149217cefa53523987a2044931d01d1c0b4ba" Description="" Url=""><as:assemblyIdentity name="Test_01.exe" version="1.0.0.0" publicKeyToken="2c4186d3518cea67" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-PT3JD6VE\Hasira Methnuka</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>FARi0KZv1MqvvrUO+vLsMlHvd5M0gsl66o3y+BoVSsA=</DigestValue></Reference></SignedInfo><SignatureValue>WQPTxomTpNLo1qggNkvx1XayGhNaotfTdZ7cViOOf3G7YeRCw9COG2505+3jahuhGd3yNsnBjqq2UNo8tsGro8NQbvcLL/z/LCx9BT1xVjCUzMCXgFAVCNei36HFpe/pKTb5xtnwOiYH19oMHelt2ma1GtFIAagfLVWSMRcKqNs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>14GnCjj3hrtOSE8KA4yeGh9XhWY+fqEkofgmdCk/Gw4nFVj8vKS6XbNt9jICUOmxA/KnRIFKqCIs+7Mpry7ivpoDP2FLyajMpLEHRltxg5PD1rt7LlYvuU4Byn22zr0KpylQT2LdUpFfBzP1isuIoKtKvbulKhnIVJquorv6FHU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICFTCCAX6gAwIBAgIQET8Qywy3dYZKoKoBg/gDZjANBgkqhkiG9w0BAQsFADBJMUcwRQYDVQQDHj4ATABBAFAAVABPAFAALQBQAFQAMwBKAEQANgBWAEUAXABIAGEAcwBpAHIAYQAgAE0AZQB0AGgAbgB1AGsAYTAeFw0yMjA0MTkwNzEyMzdaFw0yMzA0MTkxMzEyMzdaMEkxRzBFBgNVBAMePgBMAEEAUABUAE8AUAAtAFAAVAAzAEoARAA2AFYARQBcAEgAYQBzAGkAcgBhACAATQBlAHQAaABuAHUAawBhMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDXgacKOPeGu05ITwoDjJ4aH1eFZj5+oSSh+CZ0KT8bDicVWPy8pLpds232MgJQ6bED8qdEgUqoIiz7symvLuK+mgM/YUvJqMyksQdGW3GDk8PWu3suVi+5TgHKfbbOvQqnKVBPYt1SkV8HM/WKy4igq0q9u6UqGchUmq6iu/oUdQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAB972Cx5JhrBkjjLQ6ZpEWYBgtWouqWCSAiuh0wgtTBIFqV06LdsW3sdzVZCTtK9hnVvyvYBC/teiB8BW3eR3KTYPc6m2vaZ0/isbtOC5EwYmmYXkKSqg/CeRq3vhHpcyodD9TINanahyHHUhPWENfPao02zE9lwtbVZuxHFOobR</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

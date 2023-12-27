@@ -1,0 +1,87 @@
+D:\NIBM\GUI Application Development\BBMS\bin\Debug\Test_01.exe.config
+D:\NIBM\GUI Application Development\BBMS\bin\Debug\Test_01.exe
+D:\NIBM\GUI Application Development\BBMS\bin\Debug\Test_01.pdb
+D:\NIBM\GUI Application Development\BBMS\bin\Debug\Guna.UI2.dll
+D:\NIBM\GUI Application Development\BBMS\bin\Debug\MetroFramework.Design.dll
+D:\NIBM\GUI Application Development\BBMS\bin\Debug\MetroFramework.dll
+D:\NIBM\GUI Application Development\BBMS\bin\Debug\MetroFramework.Fonts.dll
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\BBMS.csproj.AssemblyReference.cache
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\Test_01.AdminLogin.resources
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\Test_01.BloodStock.resources
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\Test_01.BloodTransfert.resources
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\Test_01.DashBoard.resources
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\Test_01.DonateBlood.resources
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\Test_01.Donor.resources
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\Test_01.Employee.resources
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\Test_01.Patient.resources
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\Test_01.Splash.resources
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\Test_01.Login.resources
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\Test_01.Mainform.resources
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\Test_01.Properties.Resources.resources
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\Test_01.ViewDonors.resources
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\Test_01.ViewPatients.resources
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\BBMS.csproj.GenerateResource.cache
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\BBMS.csproj.CoreCompileInputs.cache
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\BBMS.csproj.CopyComplete
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\Test_01.exe
+D:\NIBM\GUI Application Development\BBMS\obj\Debug\Test_01.pdb
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\bin\Debug\Test_01.exe.config
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\bin\Debug\Test_01.exe
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\bin\Debug\Test_01.pdb
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\bin\Debug\Guna.UI2.dll
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\bin\Debug\MetroFramework.Design.dll
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\bin\Debug\MetroFramework.dll
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\BBMS.csproj.AssemblyReference.cache
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\Test_01.AdminLogin.resources
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\Test_01.BloodStock.resources
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\Test_01.BloodTransfert.resources
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\Test_01.DashBoard.resources
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\Test_01.Donor.resources
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\Test_01.Employee.resources
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\Test_01.Patient.resources
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\Test_01.Splash.resources
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\Test_01.Login.resources
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\Test_01.Mainform.resources
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\Test_01.Properties.Resources.resources
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\Test_01.ViewDonors.resources
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\Test_01.ViewPatients.resources
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\BBMS.csproj.GenerateResource.cache
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\BBMS.csproj.CoreCompileInputs.cache
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\BBMS.csproj.CopyComplete
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\Test_01.exe
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\Test_01.pdb
+D:\Hasira\BBMS\bin\Debug\Test_01.exe.config
+D:\Hasira\BBMS\bin\Debug\Test_01.exe
+D:\Hasira\BBMS\bin\Debug\Test_01.pdb
+D:\Hasira\BBMS\bin\Debug\Guna.UI2.dll
+D:\Hasira\BBMS\bin\Debug\MetroFramework.Design.dll
+D:\Hasira\BBMS\bin\Debug\MetroFramework.dll
+D:\Hasira\BBMS\bin\Debug\MetroFramework.Fonts.dll
+D:\Hasira\BBMS\obj\Debug\BBMS.csproj.AssemblyReference.cache
+D:\Hasira\BBMS\obj\Debug\Test_01.AdminLogin.resources
+D:\Hasira\BBMS\obj\Debug\Test_01.BloodStock.resources
+D:\Hasira\BBMS\obj\Debug\Test_01.BloodTransfert.resources
+D:\Hasira\BBMS\obj\Debug\Test_01.DashBoard.resources
+D:\Hasira\BBMS\obj\Debug\Test_01.Donor.resources
+D:\Hasira\BBMS\obj\Debug\Test_01.Employee.resources
+D:\Hasira\BBMS\obj\Debug\Test_01.Patient.resources
+D:\Hasira\BBMS\obj\Debug\Test_01.Splash.resources
+D:\Hasira\BBMS\obj\Debug\Test_01.Login.resources
+D:\Hasira\BBMS\obj\Debug\Test_01.Mainform.resources
+D:\Hasira\BBMS\obj\Debug\Test_01.Properties.Resources.resources
+D:\Hasira\BBMS\obj\Debug\Test_01.ViewDonors.resources
+D:\Hasira\BBMS\obj\Debug\Test_01.ViewPatients.resources
+D:\Hasira\BBMS\obj\Debug\BBMS.csproj.GenerateResource.cache
+D:\Hasira\BBMS\obj\Debug\BBMS.csproj.CoreCompileInputs.cache
+D:\Hasira\BBMS\obj\Debug\BBMS.csproj.CopyComplete
+D:\Hasira\BBMS\obj\Debug\Test_01.exe
+D:\Hasira\BBMS\obj\Debug\Test_01.pdb
+D:\Hasira\BBMS\bin\Debug\Test_01.exe.manifest
+D:\Hasira\BBMS\bin\Debug\Test_01.application
+D:\Hasira\BBMS\obj\Debug\Test_01.exe.manifest
+D:\Hasira\BBMS\obj\Debug\Test_01.application
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\bin\Debug\Test_01.exe.manifest
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\bin\Debug\Test_01.application
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\Test_01.exe.manifest
+C:\Users\Hasira Methnuka\OneDrive\Desktop\BBMS\obj\Debug\Test_01.application
